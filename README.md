@@ -15,5 +15,5 @@ Para executar a análise, basta copiar e colar o código SQL fornecido no arquiv
 
 
 
-### O Dashboard pode ser acessado pelo link:
-#### https://app.powerbi.com/groups/me/reports/73ac2bd1-d5c4-4e3e-bf12-56d2509f53b4/ReportSection?experience=power-bi&bookmarkGuid=Bookmarka1b22d700c863a69d9e3
+### Demonstração do Dashboard
+https://github.com/moraisazeredo/Analise-Exploratoria-e-Power-BI/assets/54039710/90b61c94-a974-4ad9-a03d-28ddf25b65ff
